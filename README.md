@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm [Your Name]</h1>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,linux,git" />
 </p>
 
