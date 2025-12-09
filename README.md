@@ -2,9 +2,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,linux,git" />
 </p>
-<p align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/RudraGoti.png" alt="Your Image Badge" />
-</p>
 
 ---
 
