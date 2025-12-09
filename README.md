@@ -2,6 +2,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,linux,git" />
 </p>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6349985" style='border:none;'></iframe>
 
 ---
 
