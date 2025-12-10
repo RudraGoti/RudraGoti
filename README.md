@@ -4,7 +4,7 @@
 
 ---
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <p align="left">
   <a href="https://tryhackme.com/p/yourusername">
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Skills (Logos Only)
+🛠️ Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,git,github" />
