@@ -33,14 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark" />
-</p>
-
----
-
-<p align="left">
+<p align="middle">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+%7C+DSA+%7C+CTF+Player" />
 </p>
