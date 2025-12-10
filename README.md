@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm [Your Name]</h1>
+<h1 align="left">👋 Hi, I'm Rudra</h1>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,linux,git" />
 </p>
