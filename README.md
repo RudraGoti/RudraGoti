@@ -6,7 +6,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://tryhackme.com/p/yourusername">
     <img src="https://img.shields.io/badge/TryHackMe-0x00?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
@@ -25,7 +25,7 @@
 
 ## 🛠️ Skills (Logos Only)
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,git,github" />
   <br/>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -35,12 +35,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark" />
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+%7C+DSA+%7C+CTF+Player" />
 </p>
