@@ -22,38 +22,26 @@
 </p>
 
 ---
+🛠️ Skills & Expertise
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Cybersecurity & Networking</h3>
-      <ul>
-        <li>Log Analysis</li>
-        <li>Computer Networking</li>
-        <li>Web Security</li>
-      </ul>
-    </td>
+<p align="center">
+    
+<a href="#"><img src="https://img.shields.io/badge/Log%20Analysis-2E8B57?style=for-the-badge&logo=apache&logoColor=white" alt="Log Analysis"></a>
+<a href="#"><img src="https://img.shields.io/badge/Computer%20Networking-0078D4?style=for-the-badge&logo=wireshark&logoColor=white" alt="Computer Networking"></a>
+<a href="#"><img src="https://img.shields.io/badge/Web%20Security-B22222?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security"></a>
+</p>
 
-    <td width="33%" valign="top" align="center">
-      <h3>Tools</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Autopsy-0x00?style=for-the-badge&logo=autopsy&logoColor=white" alt="Autopsy Badge"><br>
-        <img src="https://img.shields.io/badge/Splunk-0x00?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Badge">
-      </p>
-    </td>
+<p align="center">
+    
+<a href="#"><img src="https://img.shields.io/badge/Autopsy-0x00?style=for-the-badge&logo=autopsy&logoColor=white" alt="Autopsy"></a>
+<a href="#"><img src="https://img.shields.io/badge/Splunk-0x00?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"></a>
+</p>
 
-    <td width="33%" valign="top" align="center">
-      <h3>Technical Skills</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,py" alt="Programming Languages" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Technologies" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="left">
+    
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js" alt="Technical Skills" />
+</p>
 
----
 
 <p align="middle">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+%7C+DSA+%7C+CTF+Player" />
