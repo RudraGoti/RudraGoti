@@ -23,12 +23,29 @@
 
 ---
 
-🛠️ Skills
+🛠️ Skills & Tools
+
+<h3 align="left">Technical Skills</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
   <br/>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<h3 align="left">Cybersecurity & Networking</h3>
+
+<ul>
+  <li>Log Analysis</li>
+  <li>Computer Networking</li>
+  <li>Web Security</li>
+</ul>
+
+<h3 align="left">Tools</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Autopsy-0x00?style=for-the-badge&logo=autopsy&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Splunk-0x00?style=for-the-badge&logo=splunk&logoColor=green" />
 </p>
 
 ---
