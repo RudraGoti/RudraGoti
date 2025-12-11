@@ -23,35 +23,31 @@
 
 ---
 
-🛠️ Skills & Tools
-
 <table>
   <tr>
-    <!-- Technical Skills -->
-    <td align="center" width="33%">
-      <h3>Technical Skills</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,python" /><br/>
-        <img src="https://skillicons.dev/icons?i=html,css,js" />
-      </p>
-    </td>
-
-    <!-- Cybersecurity & Networking -->
-    <td align="center" width="33%">
+    <td width="33%" valign="top">
       <h3>Cybersecurity & Networking</h3>
-      <ul align="left">
+      <ul>
         <li>Log Analysis</li>
         <li>Computer Networking</li>
         <li>Web Security</li>
       </ul>
     </td>
 
-    <!-- Tools -->
-    <td align="center" width="33%">
+    <td width="33%" valign="top" align="center">
       <h3>Tools</h3>
       <p>
-        <img src="https://img.shields.io/badge/Autopsy-0x00?style=for-the-badge&logo=autopsy&logoColor=blue" /><br/><br/>
-        <img src="https://img.shields.io/badge/Splunk-0x00?style=for-the-badge&logo=splunk&logoColor=green" />
+        <img src="https://img.shields.io/badge/Autopsy-0x00?style=for-the-badge&logo=autopsy&logoColor=white" alt="Autopsy Badge"><br>
+        <img src="https://img.shields.io/badge/Splunk-0x00?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Badge">
+      </p>
+    </td>
+
+    <td width="33%" valign="top" align="center">
+      <h3>Technical Skills</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,py" alt="Programming Languages" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Technologies" />
       </p>
     </td>
   </tr>
