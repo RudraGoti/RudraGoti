@@ -25,39 +25,37 @@
 
 🛠️ Skills & Tools
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<table>
+  <tr>
+    <!-- Technical Skills -->
+    <td align="center" width="33%">
+      <h3>Technical Skills</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,python" /><br/>
+        <img src="https://skillicons.dev/icons?i=html,css,js" />
+      </p>
+    </td>
 
-  <!-- Technical Skills -->
-  <div style="flex: 1; min-width: 250px; margin-right: 20px;">
-    <h3>Technical Skills</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-      <br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
-    </p>
-  </div>
+    <!-- Cybersecurity & Networking -->
+    <td align="center" width="33%">
+      <h3>Cybersecurity & Networking</h3>
+      <ul align="left">
+        <li>Log Analysis</li>
+        <li>Computer Networking</li>
+        <li>Web Security</li>
+      </ul>
+    </td>
 
-  <!-- CyberSecurity & Networking -->
-  <div style="flex: 1; min-width: 250px; margin-right: 20px;">
-    <h3>Cybersecurity & Networking</h3>
-    <ul>
-      <li>Log Analysis</li>
-      <li>Computer Networking</li>
-      <li>Web Security</li>
-    </ul>
-  </div>
-
-  <!-- Tools -->
-  <div style="flex: 1; min-width: 250px;">
-    <h3>Tools</h3>
-    <p>
-      <img src="https://img.shields.io/badge/Autopsy-0x00?style=for-the-badge&logo=autopsy&logoColor=blue" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Splunk-0x00?style=for-the-badge&logo=splunk&logoColor=green" />
-    </p>
-  </div>
-
-</div>
+    <!-- Tools -->
+    <td align="center" width="33%">
+      <h3>Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Autopsy-0x00?style=for-the-badge&logo=autopsy&logoColor=blue" /><br/><br/>
+        <img src="https://img.shields.io/badge/Splunk-0x00?style=for-the-badge&logo=splunk&logoColor=green" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
