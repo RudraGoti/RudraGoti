@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm Rudra</h1>
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/RudraGoti.png" alt="Your Image Badge" />
 
 
 🌐 Connect With Me
