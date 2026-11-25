@@ -1,6 +1,6 @@
 # Rudra Goti
 
-**Cybersecurity Analyst | Network Penetration Testing | Ethical Hacking**
+**Cybersecurity Analyst | Network Penetration Testing | Vulnerability Assessment**
 
 Conducted security research and threat analysis to identify potential vulnerabilities, understand attack vectors, assess security risks, and explore mitigation strategies to strengthen system security.
 
