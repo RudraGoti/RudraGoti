@@ -1,1 +1,1 @@
-[View my interactive resume](https://rudragoti.github.io/resume/)
+[![Interactive resume preview](resume-preview.png)](https://rudragoti.github.io/resume/)
